@@ -1,0 +1,13 @@
+<package format="3">
+  <name>yolov8_depth_demo</name>
+  <version>0.1.0</version>
+  <description>YOLOv8 + Depth -> 3D demo with RViz visualization, tracking and performance monitor</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>visualization_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>realsense2_camera</exec_depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+</package>

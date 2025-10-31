@@ -1,0 +1,24 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+    Property Tree:
+      Visualization Manager:
+        Class: ''
+        Name: ''
+        Property:
+        - Name: Global Options
+          Class: ''
+        - Name: Grid
+          Class: ''
+        - Name: TF
+          Class: ''
+        - Name: RobotModel
+          Class: ''
+Frame: ''
+Name: ''
+Tools:
+  - Class: rviz_default_plugins/Interact
+  - Class: rviz_default_plugins/MoveCamera
+  - Class: rviz_default_plugins/Select
+  - Class: rviz_default_plugins/FocusCamera
+  - Class: rviz_default_plugins/Measure
